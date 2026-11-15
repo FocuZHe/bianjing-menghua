@@ -1,6 +1,6 @@
 # 汴京梦华图 · 水墨三维长卷
 
-**[▶ 在线观展](https://focuzhe.github.io/bianjing-menghua/)**
+**[▶ 在线观展](https://bianjing.focuzhe.me/)**
 
 用 three.js 以张择端《清明上河图》的构图为底本，重建北宋汴京汴河两岸的景色。
 取名「汴京梦华图」——「汴京」是北宋都城，「梦华」取意《东京梦华录》。
